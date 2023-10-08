@@ -5,7 +5,8 @@
     "price": 100,
     "duration": "3 saat",
     "departureTime": "09:00",
-    "availableSeats": 5
+    "availableSeats": 5,
+    "image": "https://cdn2.enuygun.com/img/company_logos_bus/cayiragasi-vip.png"
   },
   {
     "from": "ankara",
@@ -13,7 +14,8 @@
     "price": 150,
     "duration": "4 saat",
     "departureTime": "10:30",
-    "availableSeats": 4
+    "availableSeats": 4,
+    "image": "https://cdn2.enuygun.com/img/company_logos_bus/ozkaymak.png"
   },
   {
     "from": "adana",
@@ -21,7 +23,8 @@
     "price": 120,
     "duration": "5 saat",
     "departureTime": "11:15",
-    "availableSeats": 3
+    "availableSeats": 3,
+    "image": "https://cdn2.enuygun.com/img/company_logos_bus/metro-turizm.png"
   },
   {
     "from": "izmir",
@@ -29,7 +32,8 @@
     "price": 80,
     "duration": "2.5 saat",
     "departureTime": "13:45",
-    "availableSeats": 60
+    "availableSeats": 60,
+    "image": "https://cdn2.enuygun.com/img/company_logos_bus/has-karayolu.png"
   },
   {
     "from": "istanbul",
@@ -37,6 +41,7 @@
     "price": 200,
     "duration": "7 saat",
     "departureTime": "08:00",
-    "availableSeats": 25
+    "availableSeats": 25,
+    "image": "https://cdn2.enuygun.com/img/company_logos_bus/sec-turizm.png"
   }
 ]
