@@ -1,39 +1,39 @@
 [
   {
-    "from": "İstanbul",
-    "to": "Ankara",
+    "from": "istanbul",
+    "to": "ankara",
     "price": 100,
     "duration": "3 saat",
     "departureTime": "09:00",
     "availableSeats": 5
   },
   {
-    "from": "Ankara",
-    "to": "İzmir",
+    "from": "ankara",
+    "to": "izmir",
     "price": 150,
     "duration": "4 saat",
     "departureTime": "10:30",
     "availableSeats": 4
   },
   {
-    "from": "Adana",
-    "to": "İstanbul",
+    "from": "adana",
+    "to": "istanbul",
     "price": 120,
     "duration": "5 saat",
     "departureTime": "11:15",
     "availableSeats": 3
   },
   {
-    "from": "İzmir",
-    "to": "Antalya",
+    "from": "izmir",
+    "to": "antalya",
     "price": 80,
     "duration": "2.5 saat",
     "departureTime": "13:45",
     "availableSeats": 60
   },
   {
-    "from": "İstanbul",
-    "to": "Adıyaman",
+    "from": "istanbul",
+    "to": "adıyaman",
     "price": 200,
     "duration": "7 saat",
     "departureTime": "08:00",
